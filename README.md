@@ -7,6 +7,7 @@ Data scraping is a crucial skill for extracting valuable information from websit
 ## Folder Structure
 - findfunding.vc
   - Find-Funding-Scraping.ipynb
+  - find_funding_companies.csv
 
 Each website has its own folder containing a Jupyter notebook (scraping_code.ipynb) with the Python code used for scraping data from that specific website. Additionally, each folder includes a CSV file (data.csv) where the scraped data is stored.
 
